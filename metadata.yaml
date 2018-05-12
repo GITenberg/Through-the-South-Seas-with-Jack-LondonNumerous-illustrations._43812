@@ -1,0 +1,36 @@
+_repo: Through-the-South-Seas-with-Jack-LondonNumerous-illustrations._43812
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Harrison, Ralph D.
+    gutenberg_agent_id: '42422'
+    url: http://www.gutenberg.org/2009/agents/42422
+covers:
+- cover_type: archival
+  image_path: 43812-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Johnson, Martin
+    alias: Johnson, Martin Elmer
+    birthdate: 1884
+    deathdate: 1937
+    gutenberg_agent_id: '42421'
+    url: http://www.gutenberg.org/2009/agents/42421
+description: ''
+gutenberg_issued: '2013-09-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43812'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Oceania -- Description and travel'
+- !lcsh 'Americans -- Oceania -- History -- 20th century'
+- !lcc 'DU'
+- !lcsh 'Authors, American -- 20th century -- Biography'
+- !lcsh 'Johnson, Martin, 1884-1937'
+- !lcsh 'London, Jack, 1876-1916 -- Travel -- Oceania'
+title: Through the South Seas with Jack London
+url: http://www.gutenberg.org/ebooks/43812
